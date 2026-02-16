@@ -19,26 +19,11 @@ Any violation of these terms will be treated as intentional theft and will be su
 
 ---
 
-## Project Structure
-
-This repository contains the complete source code for the modification:
-* **Components:** Core logic for hat behavior and rendering.
-* **Config:** Management systems for hat types and user preferences.
-* **Patches:** Harmony patches used to inject the hat system into the game environment.
-
----
-
-## Technical Analysis
-1. Clone or download the repository for review.
-2. Open `HoverHat.sln` using Visual Studio 2022.
-3. Verify the assembly references in the `HoverfishHats.csproj` file to ensure compatibility with your local game files.
-
----
-
 ## Official Releases
+
 For users who wish to install and use the mod, please navigate to the Releases section of this repository and download the latest compiled binaries (.dll). 
 
-Compiling the source code yourself is only recommended for educational study or private debugging.
+Downloading the source code is only permitted for educational study or private review.
 
 ---
 
