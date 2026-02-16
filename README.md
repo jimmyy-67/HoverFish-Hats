@@ -1,10 +1,6 @@
-# Hoverfish Hats
+# <img src="https://cdn.brandfetch.io/id-9wPL0yF/w/268/h/268/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1766683924575" width="24" height="24"> [Hoverfish Hats](https://www.nexusmods.com/subnautica/mods/2972)
 
 A Subnautica modification that implements a customizable hat system for the Hoverfish creature.
-
-<a href="https://www.nexusmods.com/subnautica/mods/2972">
-  <img src="https://img.shields.io/badge/Nexus%20Mods-Visit%20Page-orange?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Page" />
-</a>
 
 ---
 
