@@ -9,7 +9,7 @@ A Subnautica modification that implements a customizable hat system for the Hove
 
 [![Download Button](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-blue?style=for-the-badge&logo=github)](https://github.com/jimmyy-67/HoverFish-Hats/releases)
 
----
+<img src="https://raw.githubusercontent.com/krzysztofzubik/gradient-hr/master/assets/gradient-horizontal.svg" width="100%" height="2px">
 
 ## Description
 
@@ -21,7 +21,7 @@ Every Hoverfish deserves to look fabulous. Hoverfish Hats is a lighthearted cosm
 * **Full Customization:** Adjust position, rotation, and scale of every hat via settings.
 * **Experimental Stacking:** Support for stacking up to 3 hats vertically.
 
----
+<img src="https://raw.githubusercontent.com/krzysztofzubik/gradient-hr/master/assets/gradient-horizontal.svg" width="100%" height="2px">
 
 ## License and Usage Terms (Non-Open Source)
 
@@ -34,6 +34,6 @@ By accessing this repository, you agree to the terms and conditions outlined in 
 
 Any violation of these terms will be treated as intentional theft and will be subject to a DMCA takedown notice and legal action under copyright law.
 
----
+<img src="https://raw.githubusercontent.com/krzysztofzubik/gradient-hr/master/assets/gradient-horizontal.svg" width="100%" height="2px">
 
 Developed by [jimmyy-67](https://github.com/jimmyy-67)
