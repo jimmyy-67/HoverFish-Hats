@@ -1,13 +1,7 @@
-<table border="0">
+<table>
   <tr>
-    <td width="50" valign="middle">
-      <a href="https://www.nexusmods.com/subnautica/mods/2972">
-        <img src="https://cdn.brandfetch.io/id-9wPL0yF/w/268/h/268/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1766683924575" width="50" height="50">
-      </a>
-    </td>
-    <td valign="middle">
-      <h1><a href="https://www.nexusmods.com/subnautica/mods/2972">Hoverfish Hats</a></h1>
-    </td>
+    <td><img src="https://cdn.brandfetch.io/id-9wPL0yF/w/268/h/268/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1766683924575" width="48" height="48"></td>
+    <td><h1><a href="https://www.nexusmods.com/subnautica/mods/2972">Hoverfish Hats</a></h1></td>
   </tr>
 </table>
 
@@ -16,9 +10,6 @@ A Subnautica modification that implements a customizable hat system for the Hove
 [![Download Button](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-blue?style=for-the-badge&logo=github)](https://github.com/jimmyy-67/HoverFish-Hats/releases)
 
 ---
-<p align="center">
-  <img src="https://via.placeholder.com/800x3/FB923C/FB923C.png" width="100%">
-</p>
 
 ## Description
 
@@ -31,9 +22,6 @@ Every Hoverfish deserves to look fabulous. Hoverfish Hats is a lighthearted cosm
 * **Experimental Stacking:** Support for stacking up to 3 hats vertically.
 
 ---
-<p align="center">
-  <img src="https://via.placeholder.com/800x3/FB923C/FB923C.png" width="100%">
-</p>
 
 ## License and Usage Terms (Non-Open Source)
 
@@ -47,8 +35,5 @@ By accessing this repository, you agree to the terms and conditions outlined in 
 Any violation of these terms will be treated as intentional theft and will be subject to a DMCA takedown notice and legal action under copyright law.
 
 ---
-<p align="center">
-  <img src="https://via.placeholder.com/800x3/FB923C/FB923C.png" width="100%">
-</p>
 
 Developed by [jimmyy-67](https://github.com/jimmyy-67)
