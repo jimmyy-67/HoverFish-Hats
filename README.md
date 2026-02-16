@@ -2,7 +2,9 @@
 
 A Subnautica modification that implements a customizable hat system for the Hoverfish creature.
 
-[![Nexus Mods](https://raw.githubusercontent.com/Slime-Crowe/Skullicons/main/icons/Nexus%20Mods.png)](https://www.nexusmods.com/subnautica/mods/2972)
+<a href="https://www.nexusmods.com/subnautica/mods/2972">
+  <img src="https://img.shields.io/badge/Nexus%20Mods-Visit%20Page-orange?style=for-the-badge&logo=nexusmods&logoColor=white" alt="Nexus Mods Page" />
+</a>
 
 ---
 
@@ -11,7 +13,7 @@ A Subnautica modification that implements a customizable hat system for the Hove
 Every Hoverfish deserves to look fabulous. Hoverfish Hats is a lighthearted cosmetic mod that adds six adorable hats for your favorite underwater buddy. Pick your style, swap hats whenever you want, and if you are feeling adventurous, stack up to three at once.
 
 ### Key Features
-* **6 unique hats:** Top Hat, Mexican Hat, Cowboy Hat, Sleeping Cap, Miner Helmet, and Santa Hat.
+* **6 Unique Hats:** Top Hat, Mexican Hat, Cowboy Hat, Sleeping Cap, Miner Helmet, and Santa Hat.
 * **Wild Support:** Hats are visible on free-swimming Hoverfish in the wild.
 * **Full Customization:** Adjust position, rotation, and scale of every hat via settings.
 * **Experimental Stacking:** Support for stacking up to 3 hats vertically.
@@ -31,4 +33,4 @@ Any violation of these terms will be treated as intentional theft and will be su
 
 ---
 
-Developed by jimmyy-67
+Developed by [jimmyy-67](https://github.com/jimmyy-67)
